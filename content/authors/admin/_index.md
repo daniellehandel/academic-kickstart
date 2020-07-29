@@ -58,8 +58,9 @@ social:
 email: ""
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+# Set this to `[]` or comment out if you are not using People widget.
 user_groups: []
 
----
 My research interests are in applied microeconomics, education and labor economics, health economics, and public policy, especially as each relates to social inequities. I am currently serving as a summer research assistant at the Federal Reserve Bank of Chicago in the Microeconomics group.
+---
+
