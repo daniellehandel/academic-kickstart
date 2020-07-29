@@ -26,6 +26,16 @@ subtitle = ""
   name = "Python"
   description = "Intermediate"
   
+  # Uncomment to use custom SVG icons.
+# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
+# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
+[[feature]]
+   icon = "stata_icon"
+   icon_pack = "custom"
+   name = "Stata"
+   description = "Intermediate"
+  
+  
  [[feature]]
   icon = "map-marked-alt"
   icon_pack = "fas"
@@ -64,13 +74,6 @@ subtitle = ""
 #  name = "Emojiness"
 #  description = "100%"  
 
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# [[feature]]
-#  icon = "your-custom-icon-name"
-#  icon_pack = "custom"
-#  name = "Surfing"
-#  description = "90%"
+
 
 +++
