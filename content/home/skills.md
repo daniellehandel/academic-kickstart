@@ -18,19 +18,44 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Advanced"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Intermediate"
   
-[[feature]]
-  icon = "camera-retro"
+ [[feature]]
+  icon = "map-marked-alt"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "ArcGIS"
+  description = "Beginner"
+
+[[feature]]
+  icon = "overleaf"
+  icon_pack = "ai"
+  name = "LaTeX"
+  description = "Intermediate"
+
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  description = "Beginner"
+  
+  [[feature]]
+  icon = "cloud"
+  icon_pack = "fas"
+  name = "Cloud Computing"
+  description = "AWS, Azure, IBM Watson"
+  
+    [[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "Git/Github"
+  description = "Intermediate"
+  
 
 # Uncomment to use emoji icons.
 # [[feature]]
