@@ -1,13 +1,12 @@
 ---
-title: "Econometrics Pedagogy and Cloud Computing: Training the Next
-Generation of Economists and Data Scientists"
-authors: 
+title: "Econometrics Pedagogy and Cloud Computing: Training the Next Generation of Economists and Data Scientists"
+authors:
 - Danielle V. Handel
 - Anson T. Y. Ho
 - Kim P. Huynh
-- David T. Jaco-Chavez
+- David T. Jacho-Chavez
 - Carson H. Rea
-date: "2020-04-07T00:00:00Z"
+date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,27 +19,19 @@ publishDate: "2020-07-28T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "submitted to Journal of Econometric Methods"
+publication: "submitted to *Journal of Econometric Methods*"
 publication_short: ""
 
-abstract: This paper describes how cloud computing tools widely used in the instruction of data scientists
-can be introduced and taught to economic students as part of their curriculum. The demonstration
-centers around a workflow where the instructor creates a virtual server and the students only need
-internet access and a web browser to complete in-class tutorials, assignments, or exams. Given how
-prevalent cloud computing platforms are becoming for data science, introducing these techniques
-into students’ econometrics training would prepare them to be more competitive when job hunting,
-while making instructors and administrators re-think what a computer laboratory means on campus.
+abstract: This paper describes how cloud computing tools widely used in the instruction of data scientists can be introduced and taught to economic students as part of their curriculum. The demonstration centers around a workflow where the instructor creates a virtual server and the students only need internet access and a web browser to complete in-class tutorials, assignments, or exams. 
 
 # Summary. An optional shortened abstract.
-# summary: ""
+summary: ""
 
-tags:
-- Source Themes
-featured: false
+tags: 
+  - econometrics
+featured: true
 
-links:
-- name: Custom Link
-  url: http://pages.iu.edu/~kphuynh/rsch/vol.html
+links: 
 url_pdf: http://pages.iu.edu/~kphuynh/rsch/vol.pdf
 url_code: ''
 url_dataset: ''
@@ -53,7 +44,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -71,3 +62,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
