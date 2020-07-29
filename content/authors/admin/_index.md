@@ -21,10 +21,10 @@ organizations:
 bio: My research interests are in applied microeconomics, education and labor economics, health economics, and public policy, especially as each relates to social inequities. I am currently serving as a summer research assistant at the Federal Reserve Bank of Chicago in the Microeconomics group.
 
 interests: 
-* Applied microeconomics
-* Economics of health, education, labor, and housing
-* Data-driven, equitable economic policy design
-* Applied econometrics
+Applied microeconomics
+Economics of health, education, labor, and housing
+Data-driven, equitable economic policy design
+Applied econometrics
 
 
 education:
