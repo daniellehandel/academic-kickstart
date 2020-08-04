@@ -30,8 +30,8 @@ subtitle = ""
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 [[feature]]
-   icon = "stata_icon"
-   icon_pack = "custom"
+   icon = "chart-line"
+   icon_pack = "fas"
    name = "Stata"
    description = "Intermediate"
   
@@ -40,6 +40,18 @@ subtitle = ""
   icon = "map-marked-alt"
   icon_pack = "fas"
   name = "ArcGIS"
+  description = "Beginner"
+  
+ [[feature]]
+  icon = "file-excel"
+  icon_pack = "fas"
+  name = "Microsoft Excel"
+  description = "Advanced"
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
   description = "Beginner"
 
 [[feature]]
