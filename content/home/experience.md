@@ -40,7 +40,8 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = "2019-12-01"
   description = """
-
+  Responsibilities include:
+  
   * Provided statistical analysis using R for a study under Dr. David Howard in conjunction with the Centers for Disease Control (CDC) to analyze the impact of cancer diagnoses on labor force participation
   * Participated in weekly course covering best practices in research, research report writing, and grant acquisition  
   """
@@ -52,6 +53,7 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = "2019-12-01"
   description = """
+  Responsibilities include:
 
   * Worked with Dr. Paloma Lopez de mesa Moyano to aid students in connecting Econometric theory to coding skills in R 
   * Held weekly office hours to coach students in assignments and general application of R
@@ -66,6 +68,7 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   date_end = "2019-08-01"
   description = """
+  Responsibilities include:
 
   * Manipulated large financial datasets while working extensively with Microsoft Excel and S&P Capital Intelligence
   * Research, including work with US International Trade Commision data, published in two initiating coverage reports
@@ -81,6 +84,7 @@ date_format = "Jan 2006"
   date_start = "2018-08-01"
   date_end = "2018-12-01"
   description = """
+  Responsibilities include:
 
   * Worked with Dr. Maria Arbatskaya to supplement students’ understanding of advanced microeconomic concepts such as Game Theory, Firm Behavior, and Profit Maximization
   * Held weekly office hours to directly communicate with and mentor students, assisted in grading
@@ -95,6 +99,7 @@ date_format = "Jan 2006"
   date_start = "2018-08-01"
   date_end = "2018-12-01"
   description = """
+  Responsibilities include:
 
   * Worked under Dr. Caroline Fohlin to compile a database of most relevant statistics of 1933 New York Stock Exchange securities using balance sheet, income account, and capital stock data            
   * Analyzed Moody’s manuals and worked with Microsoft Excel to organize and assess financial data 
@@ -109,6 +114,7 @@ date_format = "Jan 2006"
   date_start = "2018-06-01"
   date_end = "2018-08-01"
   description = """
+  Responsibilities include:
 
   * Synthesized 500+ sets of donor information into usable data for a congressional campaign
   * Developed an efficient system for analyzing individual donor history and predicting likelihood of securing future funds
