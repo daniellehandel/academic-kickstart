@@ -64,4 +64,4 @@ user_groups: []
 
 ---
 
-My research interests are in applied microeconomics, education and labor economics, health economics, and public policy, especially as each relates to social inequities. I am currently serving as a summer research assistant at the Federal Reserve Bank of Chicago in the Microeconomics group.
+I am an undergraduate student at Emory University studying Economics and Mathematics, and I am currently serving as a summer research assistant at the Federal Reserve Bank of Chicago in the Microeconomics group. Above all, I am an avid reader. Right now, I am reading [*Evicted: Poverty and Profit in the American City*](https://www.evictedbook.com/) by Matthew Desmond. 
