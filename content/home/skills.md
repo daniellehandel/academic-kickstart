@@ -34,8 +34,7 @@ subtitle = ""
    icon_pack = "fas"
    name = "Stata"
    description = "Intermediate"
-  
-  
+   
  [[feature]]
   icon = "map-marked-alt"
   icon_pack = "fas"
@@ -72,7 +71,7 @@ subtitle = ""
   name = "Cloud Computing"
   description = "AWS, Azure, IBM Watson"
   
-    [[feature]]
+   [[feature]]
   icon = "github"
   icon_pack = "fab"
   name = "Git/Github"
