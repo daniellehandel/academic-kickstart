@@ -6,7 +6,7 @@ authors:
 - Kim P. Huynh
 - David T. Jacho-Chavez
 - Carson H. Rea
-date: "2019-04-07T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,7 +32,7 @@ tags:
 featured: true
 
 links: 
-url_pdf: http://pages.iu.edu/~kphuynh/rsch/vol.pdf
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
