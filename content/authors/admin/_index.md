@@ -64,4 +64,4 @@ user_groups: []
 
 ---
 
-I am an undergraduate student at Emory University studying Economics and Mathematics. Above all, I am an avid reader. Right now, I am reading [*Race and the Shaping of Twentieth-Century Atlanta *](https://uncpress.org/book/9780807848982/race-and-the-shaping-of-twentieth-century-atlanta/) by Ronald H. Bayor.
+I am an undergraduate student at Emory University studying Economics and Mathematics. Above all, I am an avid reader. Right now, I am reading [*Race and the Shaping of Twentieth-Century Atlanta*](https://uncpress.org/book/9780807848982/race-and-the-shaping-of-twentieth-century-atlanta/) by Ronald H. Bayor.
