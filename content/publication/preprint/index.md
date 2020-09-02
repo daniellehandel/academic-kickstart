@@ -32,7 +32,7 @@ tags:
 featured: true
 
 links: 
-url_pdf: ''
+url_pdf: 'https://kphuynh.pages.iu.edu/rsch/vol.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
