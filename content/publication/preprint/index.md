@@ -19,7 +19,7 @@ publishDate: "2020-07-28T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "submitted to *Journal of Econometric Methods*"
+publication: ""
 publication_short: ""
 
 abstract: This paper describes how cloud computing tools widely used in the instruction of data scientists can be introduced and taught to economic students as part of their curriculum. The demonstration centers around a workflow where the instructor creates a virtual server and the students only need internet access and a web browser to complete in-class tutorials, assignments, or exams. 
