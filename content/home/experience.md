@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Performs research and statistical analysis for education and health projects under Dr. Lisa Barrow, Dr. Diane Alexander, and Dr. Bhashkar Mazumder
+  * Performed research and statistical analysis for education, health, and labor projects under Drs. Lisa Barrow, Diane Alexander, Bhashkar Mazumder, and Camilo Garcia
   * Developed a browser automation program for use in web scraping
   * Used R, Python, and Stata for data cleaning and analysis
   """
