@@ -64,4 +64,4 @@ user_groups: []
 
 ---
 
-I am an undergraduate student at Emory University studying Economics and Mathematics. Above all, I am an avid reader. Right now, I am reading [*The Mystery of the Kibbutz: Egalitarian Principles in a Capitalist World*](https://press.princeton.edu/books/hardcover/9780691177533/the-mystery-of-the-kibbutz) by Dr. Ran Abrimitzky.
+I am an undergraduate student at Emory University studying Economics and Mathematics. Above all, I am an avid reader. Right now, I am reading [*Black Wave: Saudi Arabia, Iran, and the Forty-Year Rivalry That Unraveled Culture, Religion, and Collective Memory in the Middle East*](https://us.macmillan.com/books/9781250131218) by Kim Ghattas.
