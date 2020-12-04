@@ -18,15 +18,6 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "The Mystery of the Kibbutz: Egalitarian Principles in a Capitalist Society"
-  url = "https://press.princeton.edu/books/hardcover/9780691177533/the-mystery-of-the-kibbutz"
-  certificate_url = ""
-  date_start = ""
-  date_end = ""
-  description = ""
 
 [[item]]
   organization = "edX"
