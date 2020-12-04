@@ -24,7 +24,7 @@ design:
     #color: 'navy'
     #text_color_light: true    
     # Name of image in `static/media/`.
-    image: book-stock.jpg
+    image: book-stock-2.jpg
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 0.6
     #  Options are `cover` (default), `contain`, or `actual` size.
