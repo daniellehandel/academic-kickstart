@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate student 
+role: Predoctoral Research Fellow 
 
 # Organizations/Affiliations
 organizations:
-- name: Emory University
+- name: Stanford Institute for Economic Policy Research
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in applied microeconomics, education and labor economics, health economics, and public policy, especially as each relates to social inequities. I am currently serving as a summer research assistant at the Federal Reserve Bank of Chicago in the Microeconomics group.
+bio: My research interests are in applied microeconomics, education and labor economics, health economics, and public policy, especially as each relates to social inequities. I am currently serving as a predoctoral research fellow under Dr. Eric Hanushek.
 
 interests: 
 - Applied microeconomics
@@ -64,4 +64,4 @@ user_groups: []
 
 ---
 
-I am an undergraduate student at Emory University studying Economics and Mathematics. Above all, I am an avid reader. Right now, I am reading [*Black Wave: Saudi Arabia, Iran, and the Forty-Year Rivalry That Unraveled Culture, Religion, and Collective Memory in the Middle East*](https://us.macmillan.com/books/9781250131218) by Kim Ghattas.
+I am a research fellow at the Stanford Institute for Econonmic Policy Research studying the economics of education. Above all, I am an avid reader. Right now, I am reading [*Putin's People: How the KGB Took Back Russia and Then Took on the West*](https://us.macmillan.com/books/9780374712785) by Catherine Belton.
