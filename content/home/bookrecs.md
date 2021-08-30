@@ -39,6 +39,10 @@ design:
 
 ### Nonfiction Favorites
 
+* [*Empire of Pain: The Secret History of the Sackler Dynasty*](https://www.penguinrandomhouse.com/books/612861/empire-of-pain-by-patrick-radden-keefe/) by Patrick Radden Keefe
+
+* [*Golden Gates: The Housing Crisis and a Reckoning for the American Dream*](https://www.penguinrandomhouse.com/books/585765/golden-gates-by-conor-dougherty/) by Conor Dougherty
+
 * [*The Mystery of the Kibbutz: Egalitarian Principles in a Capitalist World*](https://press.princeton.edu/books/hardcover/9780691177533/the-mystery-of-the-kibbutz) by Ran Abramitzky 
 
 * [*Invisible Women: Exposing Data Bias in a World Designed for Men*](https://www.abramsbooks.com/product/invisible-women_9781419729072/) by Caroline Criado Perez
