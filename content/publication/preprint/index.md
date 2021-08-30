@@ -25,7 +25,13 @@ publication_short: ""
 abstract: This paper describes how cloud computing tools widely used in the instruction of data scientists can be introduced and taught to economics students as part of their curriculum. The demonstration centers around a workflow where the instructor creates a virtual server and the students only need internet access and a web browser to complete in-class tutorials, assignments, or exams. 
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "This paper describes how cloud computing tools widely used in the instruction of data scientists can
+be introduced and taught to economics students as part of their curriculum. The demonstration
+centers around a workflow where the instructor creates a virtual server and the students only need
+internet access and a web browser to complete in-class tutorials, assignments, or exams. Given how
+prevalent cloud computing platforms are becoming for data science, introducing these techniques
+into students’ econometrics training would prepare them to be more competitive when job hunting,
+while making instructors and administrators re-think what a computer laboratory means on campus."
 
 tags: 
   - econometrics
