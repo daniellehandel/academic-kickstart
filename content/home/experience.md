@@ -17,13 +17,29 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Predoctoral Research Fellow"
+  company = "Stanford Institute for Economic Policy Research"
+  company_url = ""
+  location = ""
+  date_start = "2021-07-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Provides research assistance for education projects under Dr. Eric Hanushek
+  """
+
+
+
 [[experience]]
   title = "Research Assistant"
   company = "Federal Reserve Bank of Chicago"
   company_url = ""
   location = ""
   date_start = "2020-06-01"
-  date_end = ""
+  date_end = "2020-09-01"
   description = """
   Responsibilities include:
   
