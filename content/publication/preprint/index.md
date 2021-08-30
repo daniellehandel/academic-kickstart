@@ -69,8 +69,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
----
----
+
 title: "Econometrics Pedagogy and Cloud Computing: Training the Next Generation of Economists and Data Scientists"
 authors:
 - Danielle V. Handel
