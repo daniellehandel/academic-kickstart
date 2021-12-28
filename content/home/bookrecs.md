@@ -39,6 +39,12 @@ design:
 
 ### Nonfiction Favorites
 
+* [*And the Band Played On: Politics, People, and the AIDS Epidemic*](https://us.macmillan.com/books/9780312374631) by Randy Shilts
+
+* [*American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road*](http://www.americankingpin.com/) by Nick Bilton
+
+* [*The Immortal Life of Henrietta Lacks*](http://rebeccaskloot.com/the-immortal-life/) by Rebecca Skloot
+
 * [*Empire of Pain: The Secret History of the Sackler Dynasty*](https://www.penguinrandomhouse.com/books/612861/empire-of-pain-by-patrick-radden-keefe/) by Patrick Radden Keefe
 
 * [*Golden Gates: The Housing Crisis and a Reckoning for the American Dream*](https://www.penguinrandomhouse.com/books/585765/golden-gates-by-conor-dougherty/) by Conor Dougherty
@@ -64,6 +70,10 @@ design:
 * [*Devil in the White City*](https://eriklarsonbooks.com/book/the-devil-in-the-white-city/) by Erik Larson
 
 ### Fiction Favorites
+
+* [*All the Light We Cannot See*](https://www.anthonydoerr.com/books/all-the-light-we-cannot-see) by Anthony Doerr
+
+* [*The Alice Network*](http://www.katequinnauthor.com/books/the-alice-network/) by Kate Quinn
 
 * [*On Earth We're Briefly Gorgeous*](https://www.penguinrandomhouse.com/books/600633/on-earth-were-briefly-gorgeous-by-ocean-vuong/) by Ocean Vuong
 
