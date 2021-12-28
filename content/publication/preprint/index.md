@@ -103,7 +103,7 @@ tags:
 featured: true
 
 links: 
-url_pdf: 'https://etd.library.emory.edu/concern/etds/z029p614f?locale=en'
+url_pdf: 'The Effects of Natural Disasters on Infant Health: Evidence from India'
 url_code: ''
 url_dataset: ''
 url_poster: ''
