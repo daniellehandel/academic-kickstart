@@ -64,4 +64,4 @@ user_groups: []
 
 ---
 
-I am a research fellow at the Stanford Institute for Econonmic Policy Research studying the economics of education. Above all, I am an avid reader. Right now, I am reading [*Putin's People: How the KGB Took Back Russia and Then Took on the West*](https://us.macmillan.com/books/9780374712785) by Catherine Belton.
+I am a research fellow at the Stanford Institute for Econonmic Policy Research studying the economics of education. Above all, I am an avid reader. Right now, I am reading [*And the Band Played On: Politics, People, and the AIDS Epidemic*](https://us.macmillan.com/books/9780312374631) by Randy Shilts.
