@@ -39,6 +39,12 @@ design:
 
 ### Nonfiction Favorites
 
+* [*High-Risers: Cabrini-Green and the Fate of American Public Housing*](https://www.goodreads.com/book/show/35068382-high-risers) by Ben Austen
+
+* [*The Warmth of Other Suns: The Epic Story of America's Great Migration*](https://www.goodreads.com/book/show/8171378-the-warmth-of-other-suns) by Isabel Wilkerson
+
+* [*Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity*](https://www.goodreads.com/book/show/11869272-behind-the-beautiful-forevers) by Katherine Boo
+
 * [*And the Band Played On: Politics, People, and the AIDS Epidemic*](https://us.macmillan.com/books/9780312374631) by Randy Shilts
 
 * [*American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road*](http://www.americankingpin.com/) by Nick Bilton
