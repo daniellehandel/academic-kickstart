@@ -64,4 +64,4 @@ user_groups: []
 
 ---
 
-I am a research fellow at the Stanford Institute for Econonmic Policy Research studying the economics of education. Above all, I am an avid reader. Right now, I am reading [*Freezing Order: A True Story of Money Laundering, Murder, and Surviving Vladimir Putin's Wrath*]([https://us.macmillan.com/books/9780312374631](https://www.goodreads.com/book/show/59366154-freezing-order)) by Bill Browder.
+I am a research fellow at the Stanford Institute for Econonmic Policy Research studying the economics of education. Above all, I am an avid reader. Right now, I am reading [*The Idealist: Jeffrey Sachs and the Quest to End Poverty*](https://www.goodreads.com/en/book/show/17737045) by Nina Munk.
