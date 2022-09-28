@@ -64,4 +64,4 @@ user_groups: []
 
 ---
 
-I am a research fellow at the Stanford Institute for Economic Policy Research studying the economics of education. Above all, I am an avid reader. Right now, I am reading [*The Idealist: Jeffrey Sachs and the Quest to End Poverty*](https://www.goodreads.com/en/book/show/17737045) by Nina Munk.
+I am a research fellow at the [Stanford Institute for Economic Policy Research](https://siepr.stanford.edu/) studying the economics of education. My current read is [*The Big Payback: The History of the Business of Hip Hop*](https://www.goodreads.com/book/show/9627497-the-big-payback) by Dan Charnas.
