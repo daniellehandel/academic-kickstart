@@ -10,25 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Predoctoral Research Fellow 
+role: PhD Student in Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford Institute for Economic Policy Research
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in applied microeconomics, education and labor economics, health economics, and public policy, especially as each relates to social inequities. I am currently serving as a predoctoral research fellow under Dr. Eric Hanushek.
-
-interests: 
-- Applied microeconomics
-- Economics of health, education, labor, and housing
-- Data-driven, equitable economic policy design
-- Applied econometrics
+bio: My research interests are in market design, development economics, and public policy, especially as each relates to social inequities. I am currently a PhD Student in Economics at Stanford University.
 
 
 education:
   courses:
+  - course: PhD in Economics
+    institution: Stanford University
+    year: 2028
   - course: BA in Economics and Mathematics
     institution: Emory University
     year: 2021
